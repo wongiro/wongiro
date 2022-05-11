@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @wongiro
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning html and css basics
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning front-end development using javascript
+- 💞️ I’m looking to collaborate on many interesting ptojects.
 - 📫 How to reach me ...
 
 <!---

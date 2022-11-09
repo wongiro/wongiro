@@ -11,7 +11,7 @@ I'm a Software Engineer student. I'm passionate about sharing knowledge, documen
 - 🌱 I’m currently learning JavaScript, Reactjs, and Nodejs.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineer, Front Engineer, or UI Engineer (Intern or Junior level).
-- 📫 You can [view my resume](#) and contact me by emailing sonrobin2018@gmail.com.
+- 📫 You can [view my resume](https://docs.google.com/document/d/1CJtKkQwNBQGs8dY08iZ6207F1ZBdezlFiDirR6LsXG8/edit?usp=sharing) and contact me by emailing sonrobin2018@gmail.com.
 
 ---
 
